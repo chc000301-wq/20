@@ -1,0 +1,13 @@
+# Dependencies (regenerate with: npm install)
+node_modules/
+
+# Build output (regenerate with: npm run build)
+dist/
+
+# Runtime data (created by server.js; do not commit reservations)
+data/reservations.json
+data/orders.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
