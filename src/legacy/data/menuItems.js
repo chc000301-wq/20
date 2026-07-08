@@ -378,8 +378,10 @@ export const menuItems = [
         "category": "soup",
         "name": "酸辣湯 S",
         "name_en": "Hot & Sour Soup S",
-        "desc": "酸辣湯 小碗",
-        "desc_en": "Hot & sour soup, small",
+        "desc": "酸辣湯以濃郁湯底搭配豆腐絲、木耳、蛋花與蔬菜絲製成，入口帶有微酸、微辣與胡椒香氣，口感滑順又開胃。小碗份量適合一人享用，作為餐前湯品或搭配主餐都很合適。",
+        "desc_en": "A single-serving bowl of classic hot and sour soup, made with tofu strips, black fungus, egg ribbons, and vegetables in a rich, tangy, and mildly spicy broth. Smooth, warm, and appetizing, it is a great starter for one person.",
+        "howToEat": "建議趁熱品嚐，先喝一口湯感受酸辣香氣，再搭配炒飯、炒麵或主菜一起享用。喜歡重口味的客人，也可以搭配白飯讓味道更平衡。",
+        "howToEat_en": "Best served hot. Enjoy it before the main dish, or pair it with fried rice, noodles, or your favorite entrée for a more complete meal.",
         "ingredients": {
             "zh": [
                 "高湯",
@@ -432,8 +434,10 @@ export const menuItems = [
         "category": "soup",
         "name": "蛋花湯 S",
         "name_en": "Egg Drop Soup S",
-        "desc": "蛋花湯 小碗",
-        "desc_en": "Egg drop soup, small",
+        "desc": "金黃色蛋花湯以清爽湯底搭配細緻蛋花製成，口感滑順溫和，味道清淡不油膩。小碗份量適合一人享用，作為開胃湯品或搭配主餐都很合適。",
+        "desc_en": "A small single-serving bowl of classic egg drop soup, made with a light golden broth and soft silky egg ribbons. Warm, smooth, and comforting, it is perfect as a starter or as a simple soup to enjoy with a meal.",
+        "howToEat": "趁熱慢慢品嚐，可以先喝湯感受蛋花的柔滑口感，再搭配炒飯、炒麵或主菜一起享用，讓整餐更完整。",
+        "howToEat_en": "Best served hot. Enjoy it before the main dish, or pair it with fried rice, noodles, or your favorite entrée for a balanced meal.",
         "ingredients": {
             "zh": [
                 "高湯",
@@ -811,9 +815,11 @@ export const menuItems = [
         "displayId": "C5",
         "category": "hotpot",
         "name": "鹹魚雞粒茄子煲",
-        "name_en": "Salted Fish Chicken Eggplant Pot",
-        "desc": "鹹魚雞粒茄子煲",
-        "desc_en": "Salted fish and diced chicken eggplant pot",
+        "name_en": "Salted Fish & Diced Chicken with Eggplant in Clay Pot",
+        "desc": "鹹魚雞粒茄子煲以嫩滑雞粒、香煎茄子與鹹魚一同煲製，茄子吸收醬汁與鹹魚香氣後，口感軟嫩入味。整道菜鹹香濃郁、醬汁厚實，帶有砂鍋熱騰騰的香氣，非常適合配白飯享用。",
+        "desc_en": "Tender diced chicken, eggplant, and salted fish cooked together in a warm clay pot. The eggplant absorbs the savory sauce and rich salted fish aroma, creating a flavorful and comforting dish with a soft, hearty texture.",
+        "howToEat": "趁熱攪拌後品嚐，讓茄子、雞粒與鹹魚香氣均勻融合。可以將醬汁淋在白飯上，味道更下飯，也適合多人一起分享。",
+        "howToEat_en": "Best enjoyed hot. Mix the eggplant, chicken, and salted fish together before eating, and pair it with steamed rice for the fullest flavor.",
         "ingredients": {
             "zh": [
                 "豆腐",
@@ -920,8 +926,10 @@ export const menuItems = [
         "category": "rice",
         "name": "牛肉炒飯",
         "name_en": "Beef Fried Rice",
-        "desc": "牛肉炒飯",
-        "desc_en": "Beef fried rice",
+        "desc": "牛肉炒飯以粒粒分明的米飯搭配嫩香牛肉片、雞蛋與蔥花快炒而成，帶有淡淡鑊氣與醬香。牛肉口感紮實，米飯吸收肉香與蛋香後更加下飯，是經典又耐吃的主食選擇。",
+        "desc_en": "Classic beef fried rice made with tender beef slices, scrambled egg, scallions, and wok-fried rice. Each bite is savory, fragrant, and satisfying, with a balanced mix of beef aroma, egg flavor, and seasoned rice.",
+        "howToEat": "適合趁熱享用，可以單點作為主餐，也可以搭配湯品或清爽蔬菜一起吃，讓整體口味更平衡。",
+        "howToEat_en": "Best served hot as a main dish. Pair it with soup or vegetable dishes for a more complete meal.",
         "ingredients": {
             "zh": [
                 "白飯",
@@ -2206,8 +2214,10 @@ export const menuItems = [
         "category": "seafood",
         "name": "椒鹽鮮魷",
         "name_en": "Salt & Pepper Squid",
-        "desc": "椒鹽鮮魷",
-        "desc_en": "Salt and pepper squid",
+        "desc": "鮮魷切塊後炸至外層酥香，表面帶有椒鹽、蒜香與微微辛香的調味，口感外酥內彈。搭配洋蔥與青椒一起拌炒，讓整道菜多了清爽香氣與層次感，是很適合分享的熱炒類菜色。",
+        "desc_en": "Fresh squid pieces fried until crispy, then tossed with salt, pepper, garlic, onions, and green peppers. The outside is crunchy while the squid stays tender and slightly chewy inside, giving the dish a savory, aromatic flavor.",
+        "howToEat": "趁熱享用最能吃到酥脆口感。可以先品嚐原味椒鹽香，再搭配洋蔥、青椒一起入口，味道會更清爽。適合配白飯，也很適合作為多人分食的小菜。",
+        "howToEat_en": "Best enjoyed hot for the crispiest texture. Try it with the onions and green peppers for a brighter, more balanced bite. Great with steamed rice or as a shared appetizer.",
         "ingredients": {
             "zh": [
                 "海鮮",
@@ -2257,9 +2267,11 @@ export const menuItems = [
         "displayId": "G12",
         "category": "seafood",
         "name": "酸菜魚片",
-        "name_en": "Sour Cabbage Fish Fillet",
-        "desc": "酸菜魚片",
-        "desc_en": "Fish fillet with pickled cabbage",
+        "name_en": "Fish Fillet with Pickled Mustard Greens",
+        "desc": "嫩滑魚片搭配酸菜、蔥花與蒜香，湯汁帶有酸菜的清爽酸香與魚片的鮮甜。魚片口感細嫩，酸菜讓整體味道更開胃，湯汁濃淡適中，適合喜歡酸香鮮味的客人。",
+        "desc_en": "Tender fish fillets served in a savory broth with pickled mustard greens, scallions, and garlic. The soup has a refreshing tangy flavor balanced with the natural sweetness of the fish, making it light, appetizing, and comforting.",
+        "howToEat": "先喝一口湯感受酸菜的香氣，再搭配魚片一起品嚐。魚片可以配白飯，酸香湯汁也很適合淋在飯上一起吃。",
+        "howToEat_en": "Start with the broth to taste the pickled mustard aroma, then enjoy the soft fish fillets with steamed rice. The tangy soup also pairs well poured over rice.",
         "ingredients": {
             "zh": [
                 "海鮮",
@@ -2509,9 +2521,11 @@ export const menuItems = [
         "displayId": "G22",
         "category": "seafood",
         "name": "酸菜魷魚",
-        "name_en": "Sour Cabbage Squid",
-        "desc": "酸菜魷魚",
-        "desc_en": "Squid with pickled cabbage",
+        "name_en": "Squid with Pickled Mustard Greens",
+        "desc": "酸菜魷魚以鮮嫩魷魚搭配酸菜、洋蔥、青椒與紅椒拌炒而成，醬汁帶有酸菜的鹹酸香氣與魷魚的鮮味。魷魚口感彈嫩，酸菜入味開胃，整體鹹香帶酸，非常適合搭配白飯享用。",
+        "desc_en": "Tender squid stir-fried with pickled mustard greens, onions, green peppers, and red peppers in a savory brown sauce. The pickled greens add a tangy, appetizing flavor that pairs well with the fresh, chewy texture of the squid.",
+        "howToEat": "建議趁熱品嚐，先吃魷魚感受彈嫩口感，再搭配酸菜一起入口，酸香味會更明顯。醬汁也很適合拌飯，適合作為多人分享的熱炒菜色。",
+        "howToEat_en": "Best served hot with steamed rice. Enjoy the squid together with the pickled mustard greens for a balanced bite of tender seafood and tangy savory flavor.",
         "ingredients": {
             "zh": [
                 "海鮮",
@@ -2710,8 +2724,10 @@ export const menuItems = [
         "category": "seafood",
         "name": "豆腐蒸魚片",
         "name_en": "Steamed Fish Fillet with Tofu",
-        "desc": "豆腐蒸魚片",
-        "desc_en": "Steamed fish fillet with tofu",
+        "desc": "嫩滑魚片鋪在細緻豆腐上，以清蒸方式保留魚肉的鮮甜與豆腐的柔嫩口感。底部搭配香醇醬汁，讓魚片與豆腐吸收淡淡鹹香，再以紅椒絲、蔥絲與香菜點綴，清爽不油膩，適合喜歡清淡鮮味的客人。",
+        "desc_en": "Tender steamed fish fillets served over silky tofu, finished with a light savory soy-based sauce. Garnished with red pepper, scallions, and cilantro, this dish is fresh, delicate, and comforting.",
+        "howToEat": "先品嚐魚片本身的細嫩口感，再搭配下方豆腐一起入口，讓醬汁的香氣與豆腐的滑順平衡魚肉的鮮味。適合搭配白飯享用。",
+        "howToEat_en": "Try the fish fillet first to taste its natural tenderness, then enjoy it together with tofu and sauce for a smooth, balanced flavor. Best served with steamed rice.",
         "ingredients": {
             "zh": [
                 "海鮮",
@@ -3110,8 +3126,10 @@ export const menuItems = [
         "category": "beef",
         "name": "空心菜牛肉",
         "name_en": "Beef with Water Spinach",
-        "desc": "空心菜牛肉",
-        "desc_en": "Beef with water spinach",
+        "desc": "嫩滑牛肉片搭配新鮮空心菜快炒，醬汁鹹香濃郁，帶有蒜香與熱炒鑊氣。空心菜保留清脆口感，吸收牛肉醬汁後更加鮮香，搭配紅蘿蔔、蘑菇與蔥段，讓整道菜色澤豐富、口味下飯。",
+        "desc_en": "Tender beef slices stir-fried with fresh water spinach in a savory garlic sauce. The beef is rich and flavorful, while the water spinach adds a crisp, refreshing texture. Finished with carrots, mushrooms, and scallions for a balanced and colorful dish.",
+        "howToEat": "適合趁熱享用，先品嚐牛肉的嫩度與醬香，再搭配空心菜一起入口，口感更清爽。非常適合配白飯，也適合作為多人分享的熱炒菜色。",
+        "howToEat_en": "Best enjoyed hot with steamed rice. Try the beef together with the water spinach for a balanced bite of savory sauce, tender meat, and fresh greens.",
         "ingredients": {
             "zh": [
                 "牛肉",
@@ -3210,8 +3228,10 @@ export const menuItems = [
         "category": "chicken",
         "name": "芝麻雞",
         "name_en": "Sesame Chicken",
-        "desc": "芝麻雞",
-        "desc_en": "Sesame chicken",
+        "desc": "外酥內嫩的雞塊裹上香濃微甜的芝麻醬汁，表面撒上白芝麻，帶有濃郁醬香與酥脆口感。醬汁色澤紅亮，入口鹹甜平衡，搭配旁邊的青花菜，讓整道菜更有層次，也適合配白飯享用。",
+        "desc_en": "Crispy chicken pieces coated in a rich, slightly sweet sesame sauce and topped with toasted sesame seeds. The sauce is glossy and flavorful, with a balanced sweet and savory taste. Served with broccoli for a fresh contrast.",
+        "howToEat": "趁熱品嚐最能感受到外層酥香與醬汁的濃郁。可以先吃原味雞塊，再搭配青花菜一起入口，減少甜醬的厚重感。",
+        "howToEat_en": "Best enjoyed hot while the chicken is still crispy. Try it with steamed rice, or pair each bite with broccoli for a lighter, balanced flavor.",
         "ingredients": {
             "zh": [
                 "雞肉",
@@ -3535,8 +3555,10 @@ export const menuItems = [
         "category": "bbq",
         "name": "明爐燒鴨半隻",
         "name_en": "Roast Duck Half",
-        "desc": "明爐燒鴨半隻",
-        "desc_en": "Roast duck, half",
+        "desc": "嚴選鴨肉以明爐燒製，外皮金黃油亮，入口帶有酥香與烤鴨特有的濃郁香氣。肉質鮮嫩多汁，切塊後搭配特製酸梅醬，讓鹹香與微酸甜味更加平衡，是經典又適合分享的燒臘菜色。",
+        "desc_en": "A classic half roast duck prepared in a traditional roasting style, featuring glossy golden skin and tender, juicy meat. Served with house plum sauce, this dish offers a rich roasted aroma with a balanced sweet and tangy finish.",
+        "howToEat": "可以先品嚐鴨皮與鴨肉本身的香氣，再沾少量酸梅醬一起入口。適合搭配白飯，也可以與青菜、湯品一起享用，風味更完整。",
+        "howToEat_en": "Try the duck on its own first to enjoy the crispy skin and savory meat, then dip lightly in plum sauce for added flavor. Best served with steamed rice or shared family-style.",
         "ingredients": {
             "zh": [
                 "燒臘主食",
@@ -4045,8 +4067,10 @@ export const menuItems = [
         "category": "vegetable",
         "name": "素什錦",
         "name_en": "Mixed Vegetables",
-        "desc": "素什錦",
-        "desc_en": "Stir-fried mixed vegetables",
+        "desc": "多種新鮮蔬菜拌炒而成，包含青花菜、白菜、木耳、蘑菇、紅蘿蔔、筍片與青豆莢等，口感清爽豐富。醬汁清淡滑順，不會過於油膩，保留蔬菜本身的鮮甜與脆嫩，是一道適合搭配主食、也適合清淡飲食的素食菜色。",
+        "desc_en": "A fresh stir-fried mixed vegetable dish with broccoli, napa cabbage, black fungus, mushrooms, carrots, bamboo shoots, and snow peas. Lightly seasoned to keep the natural sweetness and crisp texture of the vegetables.",
+        "howToEat": "可以先品嚐青花菜與白菜的清甜，再搭配木耳、蘑菇與筍片一起入口，口感更有層次。適合搭配白飯，也很適合與其他肉類或海鮮菜色一起分享。",
+        "howToEat_en": "Enjoy it with steamed rice for a light and balanced meal, or pair it with meat or seafood dishes as a refreshing side.",
         "ingredients": {
             "zh": [
                 "時蔬",

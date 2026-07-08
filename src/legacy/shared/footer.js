@@ -2,9 +2,8 @@ import { html } from '../utils/template.js';
 
 // [SPLIT PHASE 2] Shared footer template.
 // [DEDUPE] home/default footers were ~95% identical; one template now serves both.
-// The 'home' variant additionally shows the promotions link and the email line.
-function buildFooter(variant) {
-  const isHome = variant === 'home';
+// The footer intentionally does not display an email address.
+function buildFooter(_variant) {
   return html`<footer class="footer">
 <div class="container">
 <div class="footer-grid">
@@ -17,13 +16,11 @@ function buildFooter(variant) {
 <a data-i18n="nav_menu" href="#/menu">菜單</a>
 <a data-i18n="nav_reservation" href="#/reservation">訂位</a>
 <a data-i18n="nav_order" href="#/cart">點餐</a>
-${isHome ? html`<a data-i18n="nav_promo" href="#/promotions">優惠活動</a>` : ''}
 </div>
 <div class="footer-col">
 <h3 data-i18n="footer_contact">聯絡資訊</h3>
 <p>📍 1520 Independence Pkwy, Plano, TX 75075</p>
 <p>📞 972-985-8899 / 945-361-3394</p>
-${isHome ? html`<p>✉️ info@restaurant.com</p>` : ''}
 </div>
 <div class="footer-col">
 <h3 data-i18n="footer_hours">營業時間</h3>

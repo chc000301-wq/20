@@ -25,7 +25,6 @@ ${brandLogoMarkup}
 <a data-i18n="nav_reservation" href="#/reservation">訂位</a>
 <a data-i18n="nav_order" href="#/cart">點餐</a>
 <a data-i18n="nav_about" href="#/about">關於我們</a>
-<a data-i18n="nav_promo" href="#/promotions">優惠活動</a>
 </div>
 <div class="nav-actions">
 <div class="chinese-variant-switcher" aria-label="Chinese text style switcher">

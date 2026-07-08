@@ -22,7 +22,7 @@ export const translations = {
         // Features
         feature_title: '為何選擇我們',
         feature_subtitle: '堅持品質，用心服務每一位顧客',
-        feature_fresh: '新鮮食材',
+        feature_fresh: '美味食材',
         feature_fresh_desc: '每日嚴選最新鮮的頂級食材，確保每道料理的品質',
         feature_chef: '專業主廚',
         feature_chef_desc: '擁有多年經驗的專業主廚，為您呈現精湛廚藝',
@@ -32,8 +32,8 @@ export const translations = {
         feature_service_desc: '親切專業的服務團隊，為您打造舒適的用餐體驗',
 
         // Promo Banner
-        promo_banner_title: '限時優惠進行中',
-        promo_banner_desc: '新會員首次消費享9折優惠，立即加入會員',
+        promo_banner_title: '敬請期待優惠',
+        promo_banner_desc: '優惠活動即將推出，更多內容敬請期待',
         promo_banner_btn: '了解更多',
 
         // Menu Preview
@@ -75,7 +75,7 @@ export const translations = {
 
         // About Preview
         about_title: '關於我們',
-        about_desc1: '我們是一家主打廣東菜的餐廳，從燒臘、海鮮到熱炒與湯品，延續粵菜講究鮮、嫩、清、和的風味。',
+        about_desc1: '我們是一家中式餐廳，菜色包含燒臘、海鮮、熱炒、湯品、煲仔、飯麵與家常料理，提供適合家庭聚餐與日常用餐的多元選擇。',
         about_desc2: '開業兩年有餘，我們持續以用心料理與真誠服務接待每位客人，現已提供約180道菜色，累積服務數千位顧客。',
         about_years: '個月營運',
         about_dishes: '道料理',
@@ -216,16 +216,20 @@ export const translations = {
         about_page_title: '關於我們',
         about_page_subtitle: '用心料理，用愛服務',
         about_story: '我們的故事',
-        about_story_p1: '我們是一家主打廣東菜的餐廳，從燒臘、海鮮、熱炒到湯品，保留粵菜講究鮮、嫩、清、和的特色，也結合適合家庭與朋友聚餐的豐富菜色。',
+        about_story_p1: '我們是一家中式餐廳，菜色涵蓋燒臘、海鮮、熱炒、湯品、煲仔、飯麵、蔬菜與家常料理。餐點風格以中式家常與宴席料理為基礎，適合家庭聚餐、朋友聚會與日常用餐。',
         about_story_p2: '開業兩年有餘以來，我們始終秉持用心料理、真誠待客的精神，持續精進每一道餐點，讓每位來訪的客人都能感受到溫暖與地道風味。',
         about_philosophy: '我們的理念',
         about_philosophy_p: '堅持使用當季新鮮食材，减少不必要的添加物，讓每位顧客都能品嚐到食物最純粹的美味。',
         about_env_title: '用餐環境',
         about_location_title: '餐廳位置',
+        about_location_city: 'Plano, Texas',
+        about_location_hours: '營業時間：週一至週日 11:00 - 21:00（週二公休，20:30 最後點餐）',
+        about_location_map_title: 'Google 地圖',
+        about_location_map_open: '開啟 Google Maps',
 
         // Promotions
-        promo_page_title: '優惠活動',
-        promo_page_subtitle: '精彩優惠，不容錯過',
+        promo_page_title: '敬請期待優惠',
+        promo_page_subtitle: '優惠活動準備中',
         promo_new_member: '新會員優惠',
         promo_new_member_desc: '首次加入會員並消費，即享全單9折優惠',
         promo_new_member_date: '長期活動',
@@ -277,7 +281,7 @@ export const translations = {
         // Features
         feature_title: 'Why Choose Us',
         feature_subtitle: 'Quality ingredients, dedicated service',
-        feature_fresh: 'Fresh Ingredients',
+        feature_fresh: 'Delicious Ingredients',
         feature_fresh_desc: 'We handpick the freshest premium ingredients daily to ensure quality in every dish',
         feature_chef: 'Expert Chefs',
         feature_chef_desc: 'Our experienced chefs bring years of culinary expertise to your plate',
@@ -287,8 +291,8 @@ export const translations = {
         feature_service_desc: 'Our friendly and professional team ensures a comfortable dining experience',
 
         // Promo Banner
-        promo_banner_title: 'Limited Time Offer',
-        promo_banner_desc: 'New members get 10% off first purchase. Join now!',
+        promo_banner_title: 'Promotions Coming Soon',
+        promo_banner_desc: 'Our upcoming offers are being prepared. Please stay tuned.',
         promo_banner_btn: 'Learn More',
 
         // Menu Preview
@@ -330,7 +334,7 @@ export const translations = {
 
         // About Preview
         about_title: 'About Us',
-        about_desc1: 'We are a Cantonese restaurant, featuring roast meats, seafood, stir-fries, and soups while preserving the fresh, balanced character of Guangdong cuisine.',
+        about_desc1: 'We are a Chinese restaurant serving roast meats, seafood, stir-fries, soups, clay pot dishes, rice and noodle dishes, vegetables, and homestyle favorites.',
         about_desc2: 'With more than two years in business, we now offer around 180 dishes and have welcomed thousands of guests with heartfelt service.',
         about_years: 'Months Serving',
         about_dishes: 'Dishes',
@@ -471,16 +475,20 @@ export const translations = {
         about_page_title: 'About Us',
         about_page_subtitle: 'Cooking with Heart, Serving with Love',
         about_story: 'Our Story',
-        about_story_p1: 'We are a Cantonese restaurant specializing in roast meats, seafood, stir-fries, and soups, bringing out the fresh and balanced flavors that define Guangdong cuisine.',
+        about_story_p1: 'We are a Chinese restaurant offering roast meats, seafood, stir-fries, soups, clay pot dishes, rice and noodle dishes, vegetables, and homestyle favorites. Our menu is built around Chinese family-style dining and banquet-style dishes for everyday meals, family gatherings, and groups of friends.',
         about_story_p2: 'In more than two years of operation, we have remained committed to heartfelt cooking and warm hospitality, refining each dish so every guest can enjoy an authentic and welcoming dining experience.',
         about_philosophy: 'Our Philosophy',
         about_philosophy_p: 'We insist on using fresh seasonal ingredients with minimal additives, so every guest can taste the purest flavors of food.',
         about_env_title: 'Our Space',
         about_location_title: 'Location',
+        about_location_city: 'Plano, Texas',
+        about_location_hours: 'Hours: Monday to Sunday 11:00 AM - 9:00 PM (Closed Tuesday, last order 8:30 PM)',
+        about_location_map_title: 'Google Map',
+        about_location_map_open: 'Open in Google Maps',
 
         // Promotions
-        promo_page_title: 'Promotions',
-        promo_page_subtitle: 'Exciting Deals You Can\'t Miss',
+        promo_page_title: 'Promotions Coming Soon',
+        promo_page_subtitle: 'Offers are being prepared',
         promo_new_member: 'New Member Offer',
         promo_new_member_desc: 'Join as a new member and enjoy 10% off your first order',
         promo_new_member_date: 'Ongoing',

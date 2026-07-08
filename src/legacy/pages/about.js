@@ -20,7 +20,7 @@ ${navbar()}
 </div>
 <div class="about-text fade-in">
 <h2 data-i18n="about_story">我們的故事</h2>
-<p data-i18n="about_story_p1">我們是一家主打廣東菜的餐廳，從燒臘、海鮮、熱炒到湯品，保留粵菜講究鮮、嫩、清、和的特色，也結合適合家庭與朋友聚餐的豐富菜色。</p>
+<p data-i18n="about_story_p1">我們是一家中式餐廳，菜色涵蓋燒臘、海鮮、熱炒、湯品、煲仔、飯麵、蔬菜與家常料理。餐點風格以中式家常與宴席料理為基礎，適合家庭聚餐、朋友聚會與日常用餐。</p>
 <p data-i18n="about_story_p2">開業兩年有餘以來，我們始終秉持用心料理、真誠待客的精神，持續精進每一道餐點，讓每位來訪的客人都能感受到溫暖與地道風味。</p>
 <div class="about-stats">
 <div class="stat-item">
@@ -73,15 +73,26 @@ ${navbar()}
 <h2 data-i18n="about_location_title">餐廳位置</h2>
 <div class="divider"></div>
 </div>
-<div class="fade-in" style="max-width:800px;margin:0 auto">
+<div class="fade-in" style="max-width:900px;margin:0 auto">
 <div style="background:var(--bg-warm);border-radius:var(--radius);padding:30px;text-align:center">
 <div style="font-size:3rem;margin-bottom:15px">📍</div>
 <h3 style="margin-bottom:10px">1520 Independence Pkwy, Plano, TX 75075</h3>
-<p style="color:var(--text-light);margin-bottom:5px">Plano, Texas</p>
-<p style="color:var(--text-light)">營業時間：週一至週日 11:00 - 21:00（週二公休，20:30 最後點餐）</p>
-<div style="margin-top:20px;padding:20px;background:linear-gradient(135deg, #667eea, #764ba2);border-radius:8px;color:white">
-<p style="font-size:0.9rem;opacity:0.8">Google Maps 圖區域</p>
-<p style="font-size:0.8rem;opacity:0.6;margin-top:5px">（可嵌入實際地圖）</p>
+<p data-i18n="about_location_city" style="color:var(--text-light);margin-bottom:5px">Plano, Texas</p>
+<p data-i18n="about_location_hours" style="color:var(--text-light);margin-bottom:20px">營業時間：週一至週日 11:00 - 21:00（週二公休，20:30 最後點餐）</p>
+<div style="overflow:hidden;border-radius:12px;box-shadow:var(--shadow);background:var(--white);text-align:left">
+<iframe
+  title="Google Map - 1520 Independence Pkwy, Plano, TX 75075"
+  src="https://www.google.com/maps?q=1520%20Independence%20Pkwy%2C%20Plano%2C%20TX%2075075&output=embed"
+  width="100%"
+  height="360"
+  style="border:0;display:block"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div style="padding:14px 18px;display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap">
+<strong data-i18n="about_location_map_title">Google 地圖</strong>
+<a data-i18n="about_location_map_open" href="https://www.google.com/maps/search/?api=1&query=1520%20Independence%20Pkwy%2C%20Plano%2C%20TX%2075075" target="_blank" rel="noopener noreferrer" style="color:var(--primary);font-weight:700;text-decoration:none">開啟 Google Maps</a>
+</div>
 </div>
 </div>
 </div>

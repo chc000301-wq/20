@@ -39,7 +39,7 @@ ${navbar('home')}
 <div class="feature-grid">
 <div class="feature-card fade-in">
 <div class="feature-icon">🥬</div>
-<h3 data-i18n="feature_fresh">新鮮食材</h3>
+<h3 data-i18n="feature_fresh">美味食材</h3>
 <p data-i18n="feature_fresh_desc">每日嚴選最新鮮的頂級食材，確保每道料理的品質</p>
 </div>
 <div class="feature-card fade-in">
@@ -64,8 +64,8 @@ ${navbar('home')}
 </section>
 <section class="promo-banner">
 <div class="container">
-<h2 data-i18n="promo_banner_title">限時優惠進行中</h2>
-<p data-i18n="promo_banner_desc">新會員首次消費享9折優惠，立即加入會員</p>
+<h2 data-i18n="promo_banner_title">敬請期待優惠</h2>
+<p data-i18n="promo_banner_desc">優惠活動即將推出，更多內容敬請期待</p>
 <a class="btn btn-primary" data-i18n="promo_banner_btn" href="#/promotions">了解更多</a>
 </div>
 </section>
@@ -90,7 +90,7 @@ ${navbar('home')}
 </div>
 <div class="about-text fade-in">
 <h2 data-i18n="about_title">關於我們</h2>
-<p data-i18n="about_desc1">我們是一家主打廣東菜的餐廳，從燒臘、海鮮到熱炒與湯品，延續粵菜講究鮮、嫩、清、和的風味。</p>
+<p data-i18n="about_desc1">我們是一家中式餐廳，菜色包含燒臘、海鮮、熱炒、湯品、煲仔、飯麵與家常料理，提供適合家庭聚餐與日常用餐的多元選擇。</p>
 <p data-i18n="about_desc2">開業兩年有餘，我們持續以用心料理與真誠服務接待每位客人，現已提供約180道菜色，累積服務數千位顧客。</p>
 <div class="about-stats">
 <div class="stat-item">
